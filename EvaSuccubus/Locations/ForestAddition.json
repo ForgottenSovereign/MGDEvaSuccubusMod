@@ -1,10 +1,10 @@
 {
     "name": "Mystic Forest",
     "exploreTitle": "Addition",
-    "Monsters": [],
+    "Monsters": [""],
     "MonsterGroups": [
                   {
-                      "Monsters": [""]
+                      "Group": [""]
                   }
 
                 ],
