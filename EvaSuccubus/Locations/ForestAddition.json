@@ -1,6 +1,6 @@
 {
     "name": "Mystic Forest",
-    "exploreTitle": "Addition",
+    "Addition": "Yes",
     "Monsters": [""],
     "MonsterGroups": [
                   {
@@ -8,7 +8,7 @@
                   }
 
                 ],
-    "Events": ["Eva Appears!"],
+    "Events": ["Eva"],
     "Quests": [""],
     "Adventures": [""],
     "Treasure": [

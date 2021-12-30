@@ -1,5 +1,5 @@
 {
-	"name": "Eva Appears!",
+	"name": "Eva",
 	"CardType": "Event",
 	"CardLimit": "1",
 	"Description": "A wandering Succubus from far beyond has been seen nearby",
@@ -22,7 +22,7 @@
 				"CallSceneThenReturn",
 				"Imaging",
 				"Speaks",
-				"By powers of Necromancy I LIVE AGAIN... damned semen demon made me do stuff again...",
+				"BY BENDING SPACE AND TIME I HAVE ARRIVED!",
 				"SetProgress",
 				"10",
 				"CallSceneThenReturn",

@@ -118,42 +118,42 @@
 			"TheBody": "1",
 			"Overlay": "No",
 			"setXalign": "0.0",
-			"setYalign": "0.0",
+			"setYalign": "0.19",
 			"Images": [{
 					"Name": "StandDark",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBaseB.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "Stand",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBase.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJ1",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJBase-1.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJ2",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJBase-2.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJ3",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJBase-3.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "MountI",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaMountI.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				}
 
 			]
@@ -171,67 +171,67 @@
 					"Name": "BJE1",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJEyes1.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJER1",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJREyes1.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJE2",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJEyes2.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJER2",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJREyes2.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJE3",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJEyes3.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJER3",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJREyes3.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJER3",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJREyes3.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "STBase",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaFaceBase.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "STBlush",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaFaceBlush.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "STLewd",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaFaceLewd.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "STLewdBlush",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaFaceLewdBlush.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "STLust",
@@ -243,13 +243,13 @@
 					"Name": "STLustBlust",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaFaceLustBlush.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "STSmug",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaFaceSmug.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				}
 
 			]
@@ -267,79 +267,79 @@
 					"Name": "BaseBJBK1",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBaseBJBK.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJBK1-1",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJBK1-1.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJBK2-1",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJBK2-1.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJBK3-1",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJBK3-1.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJBK1-2",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJBK1-2.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJBK2-2",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJBK2-2.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJBK3-2",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJBK3-2.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJBK1-3",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJBK1-3.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJBK2-3",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJBK2-3.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "BJBK3-3",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaBJBK3-3.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "MIBK1",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaMountIBK1.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "MIBK2",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaMountIBK2.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				},
 				{
 					"Name": "MIBK3",
 					"File": "../../game/mods/EvaSuccubus/Images/Eva/EvaMountIBK3.png",
 					"setXalign": "0.0",
-					"setYalign": "0.4"
+					"setYalign": "0.09"
 				}
 			]
 		}
